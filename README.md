@@ -1,1 +1,2 @@
 # Reinforcement-Learning
+The goal of this project is to implement Q Learning Algorithm from scratch on Nvidia dataset and to implement a trading strategy to maximize the profit. In each trade we can either buy/sell/hold. We will start with an investment capital of $100,000 and the performance is measured as a percentage of the return on investment. We have to use the Q-Learning algorithm for reinforcement learning to train an agent to learn the trends in stock price and perform a series of trades.
